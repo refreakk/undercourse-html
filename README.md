@@ -1,8 +1,6 @@
 
 # Чистая сборка для верстальщика
 
-A brief description of what this project does and who it's for
-
 
 ## Старт сборки
 
